@@ -1,0 +1,25 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  min-height: 10rem;
+  align-items: center;
+}
+
+.footer {
+  font-size: 24.64px;
+  min-height: 13.125rem;
+  padding: 19.2px 16px;
+}/*# sourceMappingURL=style.css.map */
